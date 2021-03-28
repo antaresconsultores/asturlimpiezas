@@ -12,11 +12,17 @@ fields:
   name: header_subheadline
   label: header_subheadline
 - name: direccion
-  type: textarea
-  default: ''
+  type: text
   config:
     required: false
-    wysiwyg: true
-    schema:
-      format: markdown
   label: Direccion
+- name: telefono
+  type: text
+  config:
+    required: false
+  label: telefono
+- name: email
+  type: text
+  config:
+    required: false
+  label: Email
