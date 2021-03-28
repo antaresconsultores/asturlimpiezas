@@ -1,7 +1,7 @@
 +++
 headless = true
 title = "Acerca de"
-weight = "1"
+weight = "3"
 
 +++
 # TODO SOBRE ASTURLIMPIEZAS
