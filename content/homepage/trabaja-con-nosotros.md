@@ -4,10 +4,14 @@ title = "Trabaja con nosotros"
 weight = "6"
 
 +++
-![](/uploads/6.jpg)
+# OPORTUNIDADES PROFESIONALES
 
-Nuestra experiencia de uso
+### Construya su futuro
 
-##### A lot, but let us get into the details with some lorem ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent feugiat lectus et magna placerat tincidunt. Nullam sit amet lectus vitae elit mollis rhoncus non eget lorem. Ut tempor sed dui quis volutpat.
+**El equipo de ¡Asturlimpiezas! se encuentra en constante crecimiento y su talento sería bienvenido. Fomentamos el trabajo a jornada completa, garantizando las mejores condiciones del mercado. ¿Quiere formar parte de Asturlimpiezas? Envíenos su CV hoy mismo.**
 
-In ultrices, est at lobortis pretium, magna quam mollis neque, id viverra odio est sit amet lorem. Mauris efficitur nunc vel lectus porttitor, sit amet sodales quam eleifend. Duis et felis ut mauris dignissim efficitur. Aliquam non sem eros. Integer elit ante, bibendum id hendrerit vitae, vestibulum eget risus. Nunc efficitur nisl in iaculis vestibulum.
+### LIMPIADOR/A
+
+#### Mieres - Oviedo
+
+¿Tienes experiencia como limpiador/a y buscas un puesto estable? ¡No dejes escapar esta oportunidad! En Asturlimpiezas estamos buscando profesionales del sector de la limpieza. Envía tu CV a **empleoasturlimpiezas@gmail.com**
