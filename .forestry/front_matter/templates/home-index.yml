@@ -12,7 +12,11 @@ fields:
   name: header_subheadline
   label: header_subheadline
 - name: direccion
-  type: text
+  type: textarea
+  default: ''
   config:
     required: false
+    wysiwyg: false
+    schema:
+      format: markdown
   label: Direccion
