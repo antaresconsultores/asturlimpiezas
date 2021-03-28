@@ -8,7 +8,7 @@ weight = "6"
 
 ### Construya su futuro
 
-**El equipo de ¡Asturlimpiezas! se encuentra en constante crecimiento y su talento sería bienvenido. Fomentamos el trabajo a jornada completa, garantizando las mejores condiciones del mercado. ¿Quiere formar parte de Asturlimpiezas? Envíenos su CV hoy mismo.**
+El equipo de ¡Asturlimpiezas! se encuentra en constante crecimiento y su talento sería bienvenido. Fomentamos el trabajo a jornada completa, garantizando las mejores condiciones del mercado. ¿Quiere formar parte de Asturlimpiezas? Envíenos su CV hoy mismo.
 
 ### LIMPIADOR/A
 
