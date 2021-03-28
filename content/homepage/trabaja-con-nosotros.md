@@ -1,7 +1,7 @@
 +++
 header_menu = true
 title = "Trabaja con nosotros"
-weight = "6"
+weight = "4"
 
 +++
 # OPORTUNIDADES PROFESIONALES
