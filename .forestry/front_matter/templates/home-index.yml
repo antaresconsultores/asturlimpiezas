@@ -11,3 +11,8 @@ fields:
 - type: text
   name: header_subheadline
   label: header_subheadline
+- name: direccion
+  type: text
+  config:
+    required: false
+  label: Direccion
