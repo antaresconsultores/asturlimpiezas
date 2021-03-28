@@ -11,6 +11,11 @@
             {{ range where $sections ".Params.header_menu" "eq" true }}
                  <a class='btn site-menu' data-title-anchor='{{ anchorize .Title }}'>{{ .Title }}</a>
             {{ end }}
+    <br><br>
+            {{ with .Params.direccion }}<h2 class="blog-description">{{ . }}</h2>{{ end }}
+            {{ with .Params.telefono }}<h2 class="blog-description">{{ . }}</h2>{{ end }}
+            {{ with .Params.email }}<h2 class="blog-description">{{ . }}</h2>{{ end }}
+
             <i id='header-arrow' class="fa fa-angle-down"></i>
         </div>
     </div>
