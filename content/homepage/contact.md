@@ -1,7 +1,7 @@
 +++
 header_menu = true
 title = "Contacto"
-weight = "7"
+weight = "5"
 
 +++
 # CONTÁCTENOS
