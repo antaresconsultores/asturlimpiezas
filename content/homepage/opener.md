@@ -1,4 +1,5 @@
 +++
+header_menu = true
 headless = false
 title = "Acerca de"
 weight = "2"

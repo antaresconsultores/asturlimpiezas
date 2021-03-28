@@ -12,4 +12,5 @@ fields:
   name: header_menu
   label: header_menu
 pages:
+- content/homepage/opener.md
 - content/homepage/trabaja-con-nosotros.md
