@@ -12,5 +12,4 @@ fields:
   name: header_menu
   label: header_menu
 pages:
-- content/homepage/seccion-adicional.md
 - content/homepage/trabaja-con-nosotros.md
