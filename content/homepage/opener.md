@@ -1,6 +1,6 @@
 +++
 headless = true
-title = "Sobre nosotros"
+title = "Acerca de"
 weight = "1"
 
 +++
